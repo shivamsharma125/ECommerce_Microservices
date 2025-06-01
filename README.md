@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Microservices Architecture
+# 🛒 E-Commerce Microservices Project
 
 Welcome to the **E-Commerce Microservices Project** – a robust, scalable, and modular system built using **Spring Boot** and following modern **microservices principles**. This repository serves as the central entry point for all microservices that make up the project.
 
@@ -39,13 +39,13 @@ Each microservice is maintained in a separate repository and is independently de
 
 ## 🚀 Key Highlights
 
-✅ Built with **Java 17** and **Spring Boot 3**
-✅ Service-to-service communication using **RestTemplate** and **Eureka Discovery**
-✅ Stateless JWT & OAuth2 Authentication (Google Login)
-✅ Event-driven email service using **Kafka**
-✅ Redis caching and MySQL-based persistence
-✅ Integration with **Razorpay** and **Stripe**
-✅ Fully covered with **JUnit 5**, **Mockito**, and **MockMvc** test cases
+✅ Built with **Java 17** and **Spring Boot 3** <br>
+✅ Service-to-service communication using **RestTemplate** and **Eureka Discovery** <br>
+✅ Stateless JWT & OAuth2 Authentication (Google Login) <br>
+✅ Event-driven email service using **Kafka** <br>
+✅ Redis caching and MySQL-based persistence <br>
+✅ Integration with **Razorpay** and **Stripe** <br>
+✅ Fully covered with **JUnit 5**, **Mockito**, and **MockMvc** test cases <br>
 ✅ API-first design with REST principles
 
 ---
