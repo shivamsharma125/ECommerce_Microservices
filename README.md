@@ -8,13 +8,13 @@ Each microservice is maintained in a separate repository and is independently de
 
 ## 🧹 Microservices Overview
 
-| Service                                                                    | Description                                                                                        | Link                                                            |
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| 🛍️ [Product Service](https://github.com/your-username/product-service)    | Handles product catalog, search, and caching logic with Redis and advanced filtering capabilities. | [View Repo](https://github.com/shivamsharma125/ProductService)   |
-| 👤 [User Service](https://github.com/your-username/user-service)           | Manages user registration, JWT-based and OAuth2 (Google) authentication, and profile updates.      | [View Repo](https://github.com/shivamsharma125/UserService)      |
-| 📧 [Email Service](https://github.com/your-username/email-service)         | Listens to Kafka events and sends transactional emails using JavaMail API.                         | [View Repo](https://github.com/shivamsharma125/EmailService)     |
-| 💳 [Payment Service](https://github.com/your-username/payment-service)     | Integrates with Razorpay and Stripe to generate dynamic payment links.                             | [View Repo](https://github.com/shivamsharma125/PaymentService)   |
-| 🔍 [Service Discovery](https://github.com/your-username/service-discovery) | Eureka-based service registry to enable dynamic discovery between microservices.                   | [View Repo](https://github.com/shivamsharma125/ServiceDiscovery) |
+| Service                                                                | Description                                                                                        | Link                                                            |
+|------------------------------------------------------------------------| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 🛍️ Product Service                                                    | Handles product catalog, search, and caching logic with Redis and advanced filtering capabilities. | [View Repo](https://github.com/shivamsharma125/ProductService)   |
+| 👤 User Service                                                        | Manages user registration, JWT-based and OAuth2 (Google) authentication, and profile updates.      | [View Repo](https://github.com/shivamsharma125/UserService)      |
+| 📧 Email Service                                                       | Listens to Kafka events and sends transactional emails using JavaMail API.                         | [View Repo](https://github.com/shivamsharma125/EmailService)     |
+| 💳 Payment Service                                                     | Integrates with Razorpay and Stripe to generate dynamic payment links.                             | [View Repo](https://github.com/shivamsharma125/PaymentService)   |
+| 🔍 Service Discovery                                                   | Eureka-based service registry to enable dynamic discovery between microservices.                   | [View Repo](https://github.com/shivamsharma125/ServiceDiscovery) |
 
 ---
 
