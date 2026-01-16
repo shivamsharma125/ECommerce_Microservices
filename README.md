@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Microservices Project
+# 🛒 E-commerce Backend (Microservices Architecture)
 
 Welcome to the **E-Commerce Microservices Project** – a robust, scalable, and modular system built using **Spring Boot** and following modern **microservices principles**. This repository serves as the central entry point for all microservices that make up the project.
 
